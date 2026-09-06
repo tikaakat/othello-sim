@@ -40,7 +40,7 @@ jobs:
         with:
           python-version: "3.11"
 
-            - name: Debug - check file structure
+      - name: Debug - check file structure
         run: |
           echo "=== ルート直下 ==="
           ls -la
@@ -50,7 +50,9 @@ jobs:
           cat othello_sim/individual.py | head -3
           echo "=== Python import テスト ==="
           python -c "import othello_sim; print(othello_sim.__file__)"
-          python -c "from othello_sim import individual"- name: Run evolution generation-by-generation (with per-batch push)
+          python -c "from othello_sim import individual"
+
+      - name: Run evolution generation-by-generation (with per-batch push)
         timeout-minutes: 340
         env:
           XSERVER_HOST: ${{ secrets.XSERVER_HOST }}
