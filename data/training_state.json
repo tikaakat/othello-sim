@@ -20,13 +20,30 @@
       "generation": 6,
       "win_rate": 0.0,
       "benchmark_depth": 5
+    },
+    {
+      "generation": 8,
+      "win_rate": 0.0,
+      "benchmark_depth": 5
     }
   ],
   "active_population_ids": [
-    "G5-9E29",
-    "G3-173B",
+    "G7-2F86",
     "G7-2445",
-    "G7-2F86"
+    "G3-173B",
+    "G5-9E29",
+    "G9-459C",
+    "G9-6ACB",
+    "G9-547E",
+    "G9-6062",
+    "G9-80B",
+    "G9-B132",
+    "G9-4808",
+    "G9-9CC8",
+    "G9-7593",
+    "G9-2371",
+    "G9-3098",
+    "G9-3670"
   ],
   "title_holder_defeats": []
 }
