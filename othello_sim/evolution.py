@@ -204,6 +204,7 @@ def generate_new_entrants(survivors, generation, population_size, immigrant_coun
             new_entrants.append(hybrid)
             print(f"  → {top.id}［{top.family_label}流］と交配し、{hybrid.id}［{hybrid.family_label}流］が誕生しました")
 
+    # 残りの枠は、生存者の変異クローン（無性生殖）で埋める
     ranked_survivors = sorted(survivors, key=lambda ind: -ind.elo) if survivors else []
     idx = 0
     while len(new_entrants) < slots and ranked_survivors:
@@ -212,6 +213,41 @@ def generate_new_entrants(survivors, generation, population_size, immigrant_coun
         idx += 1
 
     return new_entrants[:slots]
+
+
+def select_survivors_with_species_guarantee(ranked, population_size):
+    """
+    純粋な成績順だけで選ぶと、強い流派が枠を独占して他の流派が根絶やしになる
+    （NEATの「種分化」の考え方を採用し、各流に最低1枠を保証する）。
+
+    手順:
+    1. 現在の集団に存在する流派ごとに、その中の最高成績の個体を「代表」とする
+    2. 代表をランキング順に並べ、生存枠が許す限り「1流1枠」を優先的に確保する
+    3. 残った枠は、純粋な成績順で埋める（強い流派が複数枠を得ることは引き続き可能）
+    """
+    slots = max(1, population_size // 2)
+
+    rank_index = {ind.id: i for i, ind in enumerate(ranked)}
+
+    families = {}
+    for ind in ranked:
+        label = ind.family_label
+        if label not in families or rank_index[ind.id] < rank_index[families[label].id]:
+            families[label] = ind
+
+    representatives = sorted(families.values(), key=lambda ind: rank_index[ind.id])
+    guaranteed = representatives[:slots]
+    guaranteed_ids = {ind.id for ind in guaranteed}
+
+    survivors = list(guaranteed)
+    for ind in ranked:
+        if len(survivors) >= slots:
+            break
+        if ind.id in guaranteed_ids:
+            continue
+        survivors.append(ind)
+
+    return survivors
 
 
 # ============================================================
@@ -233,7 +269,10 @@ def run_generation(population, generation, matches_log,
             individual_depth=search_depth, benchmark_depth=benchmark_depth,
         )
 
-    survivors = ranked[:max(1, population_size // 2)]
+    survivors = select_survivors_with_species_guarantee(ranked, population_size)
+
+    families_present = sorted(set(ind.family_label for ind in survivors))
+    print(f"  現在の流派（生存者内）: {', '.join(families_present)}")
 
     this_gen_immigrants = immigrant_count
     if immigrant_interval and generation > 0 and generation % immigrant_interval == 0:
