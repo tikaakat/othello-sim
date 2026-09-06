@@ -10,7 +10,7 @@
       "stability_weight": 2.7903179813194496,
       "disc_weight": 1.4006075595030887
     },
-    "elo": 1530.5304984710244,
+    "elo": 1546.5304984710244,
     "match_history": [
       {
         "opponent": "G0-001",
@@ -61,6 +61,56 @@
         "result": "loss",
         "generation": 0,
         "color": "black"
+      },
+      {
+        "opponent": "G0-003",
+        "result": "draw",
+        "generation": 2
+      },
+      {
+        "opponent": "G1-713A",
+        "result": "win",
+        "generation": 2
+      },
+      {
+        "opponent": "G1-4D92",
+        "result": "draw",
+        "generation": 2
+      },
+      {
+        "opponent": "G1-4D92",
+        "result": "draw",
+        "generation": 2
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 2,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 2,
+        "color": "white"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 2,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 2,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 2,
+        "color": "white"
       }
     ],
     "family_label": "A"
@@ -148,7 +198,7 @@
       "stability_weight": 3.902896347780724,
       "disc_weight": 0.6532261225436203
     },
-    "elo": 1530.5304984710244,
+    "elo": 1545.0609969420489,
     "match_history": [
       {
         "opponent": "G0-002",
@@ -169,6 +219,26 @@
         "opponent": "G0-000",
         "result": "draw",
         "generation": 0
+      },
+      {
+        "opponent": "G0-000",
+        "result": "draw",
+        "generation": 2
+      },
+      {
+        "opponent": "G1-4D92",
+        "result": "loss",
+        "generation": 2
+      },
+      {
+        "opponent": "G1-713A",
+        "result": "win",
+        "generation": 2
+      },
+      {
+        "opponent": "G1-713A",
+        "result": "win",
+        "generation": 2
       }
     ],
     "family_label": "A"
@@ -184,8 +254,29 @@
       "stability_weight": 2.7903179813194496,
       "disc_weight": 1.4054049757686382
     },
-    "elo": 1530.5304984710244,
-    "match_history": [],
+    "elo": 1484.0,
+    "match_history": [
+      {
+        "opponent": "G1-4D92",
+        "result": "draw",
+        "generation": 2
+      },
+      {
+        "opponent": "G0-000",
+        "result": "loss",
+        "generation": 2
+      },
+      {
+        "opponent": "G0-003",
+        "result": "loss",
+        "generation": 2
+      },
+      {
+        "opponent": "G0-003",
+        "result": "loss",
+        "generation": 2
+      }
+    ],
     "family_label": "A"
   },
   {
@@ -199,7 +290,58 @@
       "stability_weight": 3.902896347780724,
       "disc_weight": 0.6532261225436203
     },
-    "elo": 1530.5304984710244,
+    "elo": 1546.5304984710244,
+    "match_history": [
+      {
+        "opponent": "G1-713A",
+        "result": "draw",
+        "generation": 2
+      },
+      {
+        "opponent": "G0-003",
+        "result": "win",
+        "generation": 2
+      },
+      {
+        "opponent": "G0-000",
+        "result": "draw",
+        "generation": 2
+      },
+      {
+        "opponent": "G0-000",
+        "result": "draw",
+        "generation": 2
+      }
+    ],
+    "family_label": "A"
+  },
+  {
+    "id": "G3-79E4",
+    "generation": 3,
+    "parent_a_id": "G0-000",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 3.131540170621235,
+      "mobility_weight": 1.9515354691992837,
+      "stability_weight": 2.7903179813194496,
+      "disc_weight": 1.4006075595030887
+    },
+    "elo": 1546.5304984710244,
+    "match_history": [],
+    "family_label": "A"
+  },
+  {
+    "id": "G3-173B",
+    "generation": 3,
+    "parent_a_id": "G1-4D92",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 2.928260822960359,
+      "mobility_weight": 1.588874846477506,
+      "stability_weight": 3.902896347780724,
+      "disc_weight": 0.6532261225436203
+    },
+    "elo": 1546.5304984710244,
     "match_history": [],
     "family_label": "A"
   }
