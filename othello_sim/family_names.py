@@ -13,6 +13,11 @@ def _index_to_label(i):
     return label
 
 
+def assign_initial_family_names(count):
+    """初期個体数分、A, B, C... の順に別々の流派名を割り当てる（26を超えたらAA, AB...）"""
+    return [_index_to_label(i) for i in range(count)]
+
+
 def random_immigrant_family_name():
     first = random.choice(ALPHABET)
     second = random.choice(ALPHABET).lower()
