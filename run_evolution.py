@@ -31,8 +31,9 @@ def main():
     parser.add_argument("--benchmark-depth", type=int, default=5,
                          help="ベンチマーク相手の初期探索深さ。2回目以降は training_state.json の値が優先")
     parser.add_argument("--benchmark-games", type=int, default=5)
-    parser.add_argument("--immigrant-count", type=int, default=0)
-    parser.add_argument("--immigrant-interval", type=int, default=5)
+    parser.add_argument("--immigrant-count", type=int, default=1, help="毎世代必ず投入する移民の数")
+    parser.add_argument("--grace-period", type=int, default=3, help="新規移民が無条件で保護される世代数")
+    parser.add_argument("--reset-interval", type=int, default=10, help="恒久保証リストを実力順で引き直す世代間隔")
     args = parser.parse_args()
 
     all_individuals, matches_log = load_checkpoint(args.data_dir)
@@ -42,6 +43,8 @@ def main():
     win_rate_history = training_state.get("win_rate_history", [])
     active_population_ids = training_state.get("active_population_ids")
     title_holder_defeats = training_state.get("title_holder_defeats", [])
+    guaranteed_families = training_state.get("guaranteed_families", [])
+    grace_info = training_state.get("grace_info", {})
 
     if all_individuals is None:
         random.seed()
@@ -68,7 +71,7 @@ def main():
 
     for gen in range(start_gen, start_gen + args.generations):
         print(f"=== Generation {gen} (benchmark_depth={benchmark_depth}, population={len(population)}) ===")
-        population = run_generation(
+        population, guaranteed_families, grace_info = run_generation(
             population, gen, matches_log,
             population_size=args.population_size,
             swiss_rounds=args.swiss_rounds,
@@ -76,7 +79,10 @@ def main():
             benchmark_depth=benchmark_depth,
             benchmark_games=args.benchmark_games,
             immigrant_count=args.immigrant_count,
-            immigrant_interval=args.immigrant_interval,
+            guaranteed_families=guaranteed_families,
+            grace_info=grace_info,
+            grace_period=args.grace_period,
+            reset_interval=args.reset_interval,
         )
         for ind in population:
             all_individuals[ind.id] = ind
@@ -118,6 +124,8 @@ def main():
             "win_rate_history": win_rate_history,
             "active_population_ids": [ind.id for ind in population],
             "title_holder_defeats": title_holder_defeats,
+            "guaranteed_families": guaranteed_families,
+            "grace_info": grace_info,
         })
 
 
