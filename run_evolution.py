@@ -4,6 +4,7 @@ import random
 from othello_sim.individual import Individual
 from othello_sim.evolution import run_generation, run_title_challenge
 from othello_sim.io_utils import load_checkpoint, export_population, load_training_state, save_training_state
+from othello_sim.family_names import assign_initial_family_names
 
 BENCHMARK_DEPTH_MAX = 6
 BENCHMARK_DEPTH_STEP = 1
@@ -47,8 +48,9 @@ def main():
         all_individuals = {}
         matches_log = []
         population = []
+        family_names = assign_initial_family_names(args.population_size)
         for i in range(args.population_size):
-            ind = Individual(ind_id=f"G0-{i:03d}", generation=0, family_label="A")
+            ind = Individual(ind_id=f"G0-{i:03d}", generation=0, family_label=family_names[i])
             population.append(ind)
             all_individuals[ind.id] = ind
         start_gen = 0
