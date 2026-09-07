@@ -8,7 +8,10 @@ from .family_names import random_immigrant_family_name
 MUTATION_RATE = 0.2
 MUTATION_STRENGTH = 0.25
 
-PARAM_KEYS = ["corner_weight", "mobility_weight", "stability_weight", "disc_weight"]
+PARAM_KEYS = [
+    "corner_weight", "danger_zone_weight", "mobility_weight", "edge_stability_weight",
+    "frontier_weight", "disc_weight", "parity_weight", "center_weight",
+]
 
 
 def _new_id(generation, suffix=""):
@@ -35,25 +38,26 @@ def mutate_clone(parent, generation):
 
 
 # ============================================================
-# 移民との交配イベント：両親の値をブレンドして「尖りを均す」。家名は合成表記
+# 移民との交配イベント：パラメータごとに、どちらかの親から丸ごと継承する「組み換え」方式。
+# 平均化（ブレンド）は多様性を減らす方向に働くため採用しない。家名は合成表記。
 # ============================================================
 def crossover_main_sub(parent_main, parent_sub, new_id, generation, family_label=None):
     child_params = {}
     for key in PARAM_KEYS:
-        # 単純な二者択一ではなく加重平均でブレンドする。
-        # 進化（変異）で尖った個体同士でも、交配すればバランスの取れた値に寄る。
-        main_weight = random.uniform(0.4, 0.6)  # 主にやや比重を残しつつ、ほぼ半々でブレンド
-        blended = parent_main.params[key] * main_weight + parent_sub.params[key] * (1 - main_weight)
+        # パラメータごとに、どちらか一方の親の値をそのまま受け継ぐ（平均は取らない）
+        source = parent_main if random.random() < 0.5 else parent_sub
+        val = source.params[key]
         if random.random() < MUTATION_RATE:
-            blended *= random.uniform(1 - MUTATION_STRENGTH, 1 + MUTATION_STRENGTH)
-        child_params[key] = max(0.01, blended)
+            val *= random.uniform(1 - MUTATION_STRENGTH, 1 + MUTATION_STRENGTH)
+        child_params[key] = max(0.01, val)
 
     child = Individual(
         new_id, generation, parent_main.id, parent_sub.id, child_params,
         family_label=family_label or parent_main.family_label,
     )
-    child.elo = (parent_main.elo + parent_sub.elo) / 2  # ブレンドなので実力も両親の中間からスタート
+    child.elo = (parent_main.elo + parent_sub.elo) / 2  # 実力の初期値は両親の中間からスタート
     return child
+
 
 
 def generate_immigrant(generation):
