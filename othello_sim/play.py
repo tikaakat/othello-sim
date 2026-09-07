@@ -4,9 +4,13 @@ from . import engine as E
 # ベンチマーク（温度計）用の固定パラメータ：バランス型の手堅い設定
 BENCHMARK_PARAMS = {
     "corner_weight": 3.0,
+    "danger_zone_weight": 2.0,
     "mobility_weight": 2.0,
-    "stability_weight": 4.0,
+    "edge_stability_weight": 2.0,
+    "frontier_weight": 1.5,
     "disc_weight": 1.0,
+    "parity_weight": 1.0,
+    "center_weight": 1.0,
 }
 
 
