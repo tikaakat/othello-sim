@@ -215,17 +215,20 @@ def generate_new_entrants(survivors, generation, population_size, immigrant_coun
     return new_entrants[:slots]
 
 
-def select_survivors_with_species_guarantee(ranked, population_size):
+def select_survivors_with_species_guarantee(ranked, population_size, max_slots_per_family_ratio=0.5):
     """
     純粋な成績順だけで選ぶと、強い流派が枠を独占して他の流派が根絶やしになる
     （NEATの「種分化」の考え方を採用し、各流に最低1枠を保証する）。
+    さらに、1つの流派が枠を独占しすぎないよう、1流あたりの上限も設ける。
 
     手順:
     1. 現在の集団に存在する流派ごとに、その中の最高成績の個体を「代表」とする
     2. 代表をランキング順に並べ、生存枠が許す限り「1流1枠」を優先的に確保する
-    3. 残った枠は、純粋な成績順で埋める（強い流派が複数枠を得ることは引き続き可能）
+    3. 残った枠は成績順で埋めるが、1流あたりの取得枠数が上限（既定：生存枠の半分）に
+       達した流派はスキップし、他の流派に機会を譲る
     """
     slots = max(1, population_size // 2)
+    max_per_family = max(1, int(slots * max_slots_per_family_ratio))
 
     rank_index = {ind.id: i for i, ind in enumerate(ranked)}
 
@@ -240,12 +243,30 @@ def select_survivors_with_species_guarantee(ranked, population_size):
     guaranteed_ids = {ind.id for ind in guaranteed}
 
     survivors = list(guaranteed)
+    family_counts = {}
+    for ind in survivors:
+        family_counts[ind.family_label] = family_counts.get(ind.family_label, 0) + 1
+
     for ind in ranked:
         if len(survivors) >= slots:
             break
         if ind.id in guaranteed_ids:
             continue
+        if family_counts.get(ind.family_label, 0) >= max_per_family:
+            continue  # この流派は既に上限枠を取得済み。他の流派に譲る
         survivors.append(ind)
+        family_counts[ind.family_label] = family_counts.get(ind.family_label, 0) + 1
+
+    # 上限キャップのせいで枠が余ってしまった場合（多様な流派で埋め切れなかった場合）は、
+    # キャップを無視してでも残り枠を成績順で埋める（空席を残さない）
+    if len(survivors) < slots:
+        chosen_ids = {ind.id for ind in survivors}
+        for ind in ranked:
+            if len(survivors) >= slots:
+                break
+            if ind.id in chosen_ids:
+                continue
+            survivors.append(ind)
 
     return survivors
 
