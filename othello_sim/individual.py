@@ -13,11 +13,16 @@ class Individual:
         self.family_label = family_label or ind_id
 
     def _random_params(self):
+        # リミットは今回設けず、0〜10の範囲で自由にランダム初期化する（傾向を見てから上限を検討する）
         return {
-            "corner_weight": random.uniform(1.0, 5.0),
-            "mobility_weight": random.uniform(0.5, 3.0),
-            "stability_weight": random.uniform(1.0, 6.0),
-            "disc_weight": random.uniform(0.5, 2.0),
+            "corner_weight": random.uniform(0.5, 10.0),
+            "danger_zone_weight": random.uniform(0.5, 10.0),
+            "mobility_weight": random.uniform(0.5, 10.0),
+            "edge_stability_weight": random.uniform(0.5, 10.0),
+            "frontier_weight": random.uniform(0.5, 10.0),
+            "disc_weight": random.uniform(0.5, 10.0),
+            "parity_weight": random.uniform(0.5, 10.0),
+            "center_weight": random.uniform(0.5, 10.0),
         }
 
     def to_dict(self):
