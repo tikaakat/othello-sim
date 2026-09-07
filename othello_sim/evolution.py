@@ -185,24 +185,18 @@ def run_benchmark_thermometer(top_individual, generation, matches_log, games=5,
 
 
 # ============================================================
-# 新規参入個体の生成：通常は変異クローン、移民が来た世代だけ交配イベント
+# 新規参入個体の生成：基本は変異クローンで埋め、うち1枠は毎世代必ず新しい移民に譲る。
+# 移民は次世代のトーナメントで実力を証明できれば生き残り、弱ければそのまま消える。
 # ============================================================
-def generate_new_entrants(survivors, generation, population_size, immigrant_count=0):
+def generate_new_entrants(survivors, generation, population_size, immigrant_count=1):
     slots = population_size - len(survivors)
     new_entrants = []
 
-    for _ in range(immigrant_count):
-        if len(new_entrants) >= slots:
-            break
+    actual_immigrant_count = min(immigrant_count, slots)
+    for _ in range(actual_immigrant_count):
         immigrant = generate_immigrant(generation)
         new_entrants.append(immigrant)
-        print(f"  → 移民 {immigrant.id}［{immigrant.family_label}流］が現れました")
-
-        if len(new_entrants) < slots and survivors:
-            top = max(survivors, key=lambda ind: ind.elo)
-            hybrid = crossover_hybrid(top, immigrant, generation)
-            new_entrants.append(hybrid)
-            print(f"  → {top.id}［{top.family_label}流］と交配し、{hybrid.id}［{hybrid.family_label}流］が誕生しました")
+        print(f"  → 移民 {immigrant.id}［{immigrant.family_label}流］が現れました（実力を証明できれば生き残ります）")
 
     # 残りの枠は、生存者の変異クローン（無性生殖）で埋める
     ranked_survivors = sorted(survivors, key=lambda ind: -ind.elo) if survivors else []
@@ -215,31 +209,29 @@ def generate_new_entrants(survivors, generation, population_size, immigrant_coun
     return new_entrants[:slots]
 
 
-def select_survivors_with_species_guarantee(ranked, population_size, max_slots_per_family_ratio=0.5):
+def select_survivors_with_protection(ranked, population_size, protected_families, max_slots_per_family_ratio=0.5):
     """
-    純粋な成績順だけで選ぶと、強い流派が枠を独占して他の流派が根絶やしになる
-    （NEATの「種分化」の考え方を採用し、各流に最低1枠を保証する）。
-    さらに、1つの流派が枠を独占しすぎないよう、1流あたりの上限も設ける。
-
-    手順:
-    1. 現在の集団に存在する流派ごとに、その中の最高成績の個体を「代表」とする
-    2. 代表をランキング順に並べ、生存枠が許す限り「1流1枠」を優先的に確保する
-    3. 残った枠は成績順で埋めるが、1流あたりの取得枠数が上限（既定：生存枠の半分）に
-       達した流派はスキップし、他の流派に機会を譲る
+    保護対象（恒久保証＋猶予期間中の移民）の流派には、優先的に1枠を確保する。
+    保護対象が生存枠を超える場合は、代表の順位が低い流派から優先度を落とす
+    （＝恒久保証側が一時的に席を譲る形になる。移民の猶予は必ず守られる）。
+    残りの枠は成績順で埋めるが、1流あたりの取得枠数には上限を設ける。
     """
     slots = max(1, population_size // 2)
     max_per_family = max(1, int(slots * max_slots_per_family_ratio))
 
     rank_index = {ind.id: i for i, ind in enumerate(ranked)}
 
-    families = {}
+    family_reps = {}
     for ind in ranked:
         label = ind.family_label
-        if label not in families or rank_index[ind.id] < rank_index[families[label].id]:
-            families[label] = ind
+        if label not in family_reps or rank_index[ind.id] < rank_index[family_reps[label].id]:
+            family_reps[label] = ind
 
-    representatives = sorted(families.values(), key=lambda ind: rank_index[ind.id])
-    guaranteed = representatives[:slots]
+    present_protected = [fam for fam in protected_families if fam in family_reps]
+    present_protected_sorted = sorted(present_protected, key=lambda fam: rank_index[family_reps[fam].id])
+    guaranteed_labels = present_protected_sorted[:slots]
+
+    guaranteed = [family_reps[fam] for fam in guaranteed_labels]
     guaranteed_ids = {ind.id for ind in guaranteed}
 
     survivors = list(guaranteed)
@@ -253,12 +245,10 @@ def select_survivors_with_species_guarantee(ranked, population_size, max_slots_p
         if ind.id in guaranteed_ids:
             continue
         if family_counts.get(ind.family_label, 0) >= max_per_family:
-            continue  # この流派は既に上限枠を取得済み。他の流派に譲る
+            continue
         survivors.append(ind)
         family_counts[ind.family_label] = family_counts.get(ind.family_label, 0) + 1
 
-    # 上限キャップのせいで枠が余ってしまった場合（多様な流派で埋め切れなかった場合）は、
-    # キャップを無視してでも残り枠を成績順で埋める（空席を残さない）
     if len(survivors) < slots:
         chosen_ids = {ind.id for ind in survivors}
         for ind in ranked:
@@ -277,7 +267,16 @@ def select_survivors_with_species_guarantee(ranked, population_size, max_slots_p
 def run_generation(population, generation, matches_log,
                     population_size=16, swiss_rounds=4, search_depth=4,
                     benchmark_depth=5, benchmark_games=5,
-                    immigrant_count=0, immigrant_interval=5):
+                    immigrant_count=1,
+                    guaranteed_families=None, grace_info=None,
+                    grace_period=3, reset_interval=10):
+    """
+    guaranteed_families: 恒久保証されている流派名のリスト（reset_intervalごとに引き直す）
+    grace_info: {流派名: 保護終了世代} の辞書。新規移民に猶予期間として付与する
+    """
+    guaranteed_families = list(guaranteed_families) if guaranteed_families else []
+    grace_info = dict(grace_info) if grace_info else {}
+
     score = run_swiss_tournament(
         population, generation, matches_log, rounds=swiss_rounds, depth=search_depth,
     )
@@ -290,15 +289,46 @@ def run_generation(population, generation, matches_log,
             individual_depth=search_depth, benchmark_depth=benchmark_depth,
         )
 
-    survivors = select_survivors_with_species_guarantee(ranked, population_size)
+    slots = max(1, population_size // 2)
+    rank_index = {ind.id: i for i, ind in enumerate(ranked)}
+
+    def top_family_labels(n):
+        family_reps = {}
+        for ind in ranked:
+            label = ind.family_label
+            if label not in family_reps or rank_index[ind.id] < rank_index[family_reps[label].id]:
+                family_reps[label] = ind
+        return sorted(family_reps.keys(), key=lambda fam: rank_index[family_reps[fam].id])[:n]
+
+    # 初回（恒久保証リストが空）は、その時点の上位流派で初期化する
+    if not guaranteed_families:
+        guaranteed_families = top_family_labels(slots)
+        print(f"  恒久保証リストを初期化しました: {', '.join(guaranteed_families)}")
+
+    # 現在保護されている流派 = 恒久保証 ∪ 猶予期間中の流派（移民は必ずフル猶予を得られる）
+    active_grace = {fam for fam, expiry in grace_info.items() if generation <= expiry}
+    protected_families = set(guaranteed_families) | active_grace
+
+    survivors = select_survivors_with_protection(ranked, population_size, protected_families)
 
     families_present = sorted(set(ind.family_label for ind in survivors))
-    print(f"  現在の流派（生存者内）: {', '.join(families_present)}")
+    grace_note = f"（猶予中: {', '.join(sorted(active_grace))}）" if active_grace else ""
+    print(f"  現在の流派（生存者内）: {', '.join(families_present)} {grace_note}")
 
-    this_gen_immigrants = immigrant_count
-    if immigrant_interval and generation > 0 and generation % immigrant_interval == 0:
-        this_gen_immigrants += 1
+    # 定期リセット：恒久保証リストを、その時点の実力順で引き直す
+    if reset_interval and generation > 0 and generation % reset_interval == 0:
+        new_guaranteed = top_family_labels(slots)
+        print(f"  ★ 恒久保証リストを更新: {', '.join(guaranteed_families)} → {', '.join(new_guaranteed)}")
+        guaranteed_families = new_guaranteed
+        # 期限切れの猶予情報は掃除する
+        grace_info = {fam: exp for fam, exp in grace_info.items() if generation <= exp}
 
-    new_entrants = generate_new_entrants(survivors, generation + 1, population_size, this_gen_immigrants)
+    # 毎世代必ず1体の移民枠を確保し、猶予期間を新規付与する
+    new_entrants = generate_new_entrants(survivors, generation + 1, population_size, immigrant_count)
+    for ind in new_entrants:
+        is_fresh_immigrant = (ind.parent_a_id is None and ind.parent_b_id is None)
+        if is_fresh_immigrant and ind.family_label not in grace_info and ind.family_label not in guaranteed_families:
+            grace_info[ind.family_label] = generation + 1 + grace_period
+            print(f"  → {ind.family_label}流に猶予期間を付与（世代{generation + 1 + grace_period}まで保護）")
 
-    return survivors + new_entrants
+    return survivors + new_entrants, guaranteed_families, grace_info
