@@ -1,0 +1,42 @@
+{
+  "benchmark_depth": 5,
+  "win_rate_history": [
+    {
+      "generation": 0,
+      "win_rate": 0.0,
+      "benchmark_depth": 5
+    }
+  ],
+  "active_population_ids": [
+    "G0-014",
+    "G0-003",
+    "G0-005",
+    "G0-012",
+    "G0-002",
+    "G0-004",
+    "G0-006",
+    "G0-007",
+    "G1-7C04i",
+    "G1-8168",
+    "G1-8D73",
+    "G1-3504",
+    "G1-61E7",
+    "G1-B200",
+    "G1-2E7A",
+    "G1-A3E1"
+  ],
+  "title_holder_defeats": [],
+  "guaranteed_families": [
+    "O",
+    "D",
+    "F",
+    "M",
+    "C",
+    "E",
+    "G",
+    "H"
+  ],
+  "grace_info": {
+    "Nu": 4
+  }
+}

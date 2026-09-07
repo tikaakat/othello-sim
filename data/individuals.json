@@ -1,0 +1,824 @@
+[
+  {
+    "id": "G0-000",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 1.4113114132890994,
+      "danger_zone_weight": 5.322439033546815,
+      "mobility_weight": 3.9290680212171614,
+      "edge_stability_weight": 3.5949934509450046,
+      "frontier_weight": 9.067388128700424,
+      "disc_weight": 7.676661063973669,
+      "parity_weight": 9.212277623396986,
+      "center_weight": 8.325775858309122
+    },
+    "elo": 1468.0676726427585,
+    "match_history": [
+      {
+        "opponent": "G0-001",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-002",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-003",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-006",
+        "result": "loss",
+        "generation": 0
+      }
+    ],
+    "family_label": "A"
+  },
+  {
+    "id": "G0-001",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 6.828859585399816,
+      "danger_zone_weight": 8.760811467228338,
+      "mobility_weight": 3.6682206847272663,
+      "edge_stability_weight": 0.9441968696534384,
+      "frontier_weight": 6.959559575527466,
+      "disc_weight": 9.821290355572616,
+      "parity_weight": 7.714087506366957,
+      "center_weight": 6.092226007553361
+    },
+    "elo": 1469.4018288862171,
+    "match_history": [
+      {
+        "opponent": "G0-000",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-003",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-012",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-009",
+        "result": "win",
+        "generation": 0
+      }
+    ],
+    "family_label": "B"
+  },
+  {
+    "id": "G0-002",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 8.125726124821707,
+      "danger_zone_weight": 7.955928654366994,
+      "mobility_weight": 3.4810979519023304,
+      "edge_stability_weight": 8.399678376750213,
+      "frontier_weight": 2.396942418530127,
+      "disc_weight": 7.882637179439753,
+      "parity_weight": 5.772140583840667,
+      "center_weight": 5.4768646633196205
+    },
+    "elo": 1516.0,
+    "match_history": [
+      {
+        "opponent": "G0-003",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-000",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-005",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-004",
+        "result": "draw",
+        "generation": 0
+      }
+    ],
+    "family_label": "C"
+  },
+  {
+    "id": "G0-003",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 7.31962857945986,
+      "danger_zone_weight": 9.314081077734151,
+      "mobility_weight": 6.695483369585426,
+      "edge_stability_weight": 4.34315664694401,
+      "frontier_weight": 8.523064228158889,
+      "disc_weight": 6.0018287245877735,
+      "parity_weight": 9.029876303151527,
+      "center_weight": 3.560985654574234
+    },
+    "elo": 1532.0,
+    "match_history": [
+      {
+        "opponent": "G0-002",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-001",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-000",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-010",
+        "result": "win",
+        "generation": 0
+      }
+    ],
+    "family_label": "D"
+  },
+  {
+    "id": "G0-004",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 2.6352170410809004,
+      "danger_zone_weight": 6.451042796891461,
+      "mobility_weight": 3.9640172235461626,
+      "edge_stability_weight": 4.0771775648528585,
+      "frontier_weight": 7.69589093116576,
+      "disc_weight": 2.969170480296136,
+      "parity_weight": 1.8657632105275537,
+      "center_weight": 5.52670378227017
+    },
+    "elo": 1516.0,
+    "match_history": [
+      {
+        "opponent": "G0-005",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-006",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-007",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-002",
+        "result": "draw",
+        "generation": 0
+      }
+    ],
+    "family_label": "E"
+  },
+  {
+    "id": "G0-005",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 2.9301598683902426,
+      "danger_zone_weight": 8.16428597129148,
+      "mobility_weight": 0.5055172083960648,
+      "edge_stability_weight": 6.1022171829986185,
+      "frontier_weight": 2.84728258247849,
+      "disc_weight": 8.32404636466292,
+      "parity_weight": 4.915562118631066,
+      "center_weight": 0.9690113881633311
+    },
+    "elo": 1532.0,
+    "match_history": [
+      {
+        "opponent": "G0-004",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-007",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-002",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-014",
+        "result": "loss",
+        "generation": 0
+      }
+    ],
+    "family_label": "F"
+  },
+  {
+    "id": "G0-006",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 2.713405957632596,
+      "danger_zone_weight": 3.2398847158952844,
+      "mobility_weight": 9.688728297147282,
+      "edge_stability_weight": 9.440954157451193,
+      "frontier_weight": 4.90300559339733,
+      "disc_weight": 0.8759588460486849,
+      "parity_weight": 1.9135134918649603,
+      "center_weight": 4.034797741224043
+    },
+    "elo": 1501.4018288862171,
+    "match_history": [
+      {
+        "opponent": "G0-007",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-004",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-013",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-000",
+        "result": "win",
+        "generation": 0
+      }
+    ],
+    "family_label": "G"
+  },
+  {
+    "id": "G0-007",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 4.691504560108344,
+      "danger_zone_weight": 2.894684984571982,
+      "mobility_weight": 3.5527349779766078,
+      "edge_stability_weight": 1.9374696827519193,
+      "frontier_weight": 1.8647458102404821,
+      "disc_weight": 3.873224753093554,
+      "parity_weight": 7.9317134759046555,
+      "center_weight": 8.512525666902796
+    },
+    "elo": 1500.0,
+    "match_history": [
+      {
+        "opponent": "G0-006",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-005",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-004",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-008",
+        "result": "win",
+        "generation": 0
+      }
+    ],
+    "family_label": "H"
+  },
+  {
+    "id": "G0-008",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 2.002088437104596,
+      "danger_zone_weight": 8.811470812893285,
+      "mobility_weight": 5.709764390608584,
+      "edge_stability_weight": 0.7122948539993088,
+      "frontier_weight": 8.051075807751308,
+      "disc_weight": 0.7276473412666509,
+      "parity_weight": 2.537038279167871,
+      "center_weight": 3.1491678328114356
+    },
+    "elo": 1468.0,
+    "match_history": [
+      {
+        "opponent": "G0-009",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-011",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-010",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-007",
+        "result": "loss",
+        "generation": 0
+      }
+    ],
+    "family_label": "I"
+  },
+  {
+    "id": "G0-009",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 3.9915877250937117,
+      "danger_zone_weight": 4.276090528067979,
+      "mobility_weight": 8.076250821868012,
+      "edge_stability_weight": 8.926772571581477,
+      "frontier_weight": 4.900650705377442,
+      "disc_weight": 2.968471180176817,
+      "parity_weight": 2.475151877851524,
+      "center_weight": 8.133904178988306
+    },
+    "elo": 1436.0676726427585,
+    "match_history": [
+      {
+        "opponent": "G0-008",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-010",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-015",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-001",
+        "result": "loss",
+        "generation": 0
+      }
+    ],
+    "family_label": "J"
+  },
+  {
+    "id": "G0-010",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 2.771999642381652,
+      "danger_zone_weight": 9.492388588551956,
+      "mobility_weight": 7.438699196751038,
+      "edge_stability_weight": 7.256123600594758,
+      "frontier_weight": 4.377410889484266,
+      "disc_weight": 7.05668310886143,
+      "parity_weight": 0.8039184139861073,
+      "center_weight": 8.248427971950697
+    },
+    "elo": 1500.0,
+    "match_history": [
+      {
+        "opponent": "G0-011",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-009",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-008",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-003",
+        "result": "loss",
+        "generation": 0
+      }
+    ],
+    "family_label": "K"
+  },
+  {
+    "id": "G0-011",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 3.6352877635063585,
+      "danger_zone_weight": 4.2878716247573205,
+      "mobility_weight": 6.797814845322971,
+      "edge_stability_weight": 0.8812114230123526,
+      "frontier_weight": 9.724260867963451,
+      "disc_weight": 4.16667524245448,
+      "parity_weight": 4.7184538300102306,
+      "center_weight": 3.9197206790004424
+    },
+    "elo": 1499.9323273572415,
+    "match_history": [
+      {
+        "opponent": "G0-010",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-008",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-014",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-012",
+        "result": "loss",
+        "generation": 0
+      }
+    ],
+    "family_label": "L"
+  },
+  {
+    "id": "G0-012",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 8.990088715905404,
+      "danger_zone_weight": 2.069397323158065,
+      "mobility_weight": 5.258921554294862,
+      "edge_stability_weight": 1.4241970595372309,
+      "frontier_weight": 6.606554727419502,
+      "disc_weight": 9.500957220600881,
+      "parity_weight": 1.1360914226768581,
+      "center_weight": 3.8051485068047173
+    },
+    "elo": 1530.5981711137829,
+    "match_history": [
+      {
+        "opponent": "G0-013",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-015",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-001",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-011",
+        "result": "win",
+        "generation": 0
+      }
+    ],
+    "family_label": "M"
+  },
+  {
+    "id": "G0-013",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 6.256051059914253,
+      "danger_zone_weight": 1.746839963771865,
+      "mobility_weight": 1.119197616379142,
+      "edge_stability_weight": 7.537268263370318,
+      "frontier_weight": 2.5295401612999338,
+      "disc_weight": 2.359448790040348,
+      "parity_weight": 7.790211040679686,
+      "center_weight": 5.62487466522645
+    },
+    "elo": 1466.5981711137829,
+    "match_history": [
+      {
+        "opponent": "G0-012",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-014",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-006",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-015",
+        "result": "loss",
+        "generation": 0
+      }
+    ],
+    "family_label": "N"
+  },
+  {
+    "id": "G0-014",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 7.089853542512357,
+      "danger_zone_weight": 1.941031825675055,
+      "mobility_weight": 2.9431773821883085,
+      "edge_stability_weight": 7.554042687252194,
+      "frontier_weight": 1.8789882576804522,
+      "disc_weight": 8.966355968186607,
+      "parity_weight": 3.0247089409997665,
+      "center_weight": 5.675470303295911
+    },
+    "elo": 1564.0,
+    "match_history": [
+      {
+        "opponent": "G0-015",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-013",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-011",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-005",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 0,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 0,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 0,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 0,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 0,
+        "color": "white"
+      }
+    ],
+    "family_label": "O"
+  },
+  {
+    "id": "G0-015",
+    "generation": 0,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 2.2147353141433204,
+      "danger_zone_weight": 7.364094532027002,
+      "mobility_weight": 9.169628154815364,
+      "edge_stability_weight": 9.296368734703986,
+      "frontier_weight": 7.112016377732714,
+      "disc_weight": 5.206852546753147,
+      "parity_weight": 6.914860472023776,
+      "center_weight": 2.6430211740409324
+    },
+    "elo": 1499.9323273572415,
+    "match_history": [
+      {
+        "opponent": "G0-014",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-012",
+        "result": "loss",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-009",
+        "result": "win",
+        "generation": 0
+      },
+      {
+        "opponent": "G0-013",
+        "result": "win",
+        "generation": 0
+      }
+    ],
+    "family_label": "P"
+  },
+  {
+    "id": "G1-7C04i",
+    "generation": 1,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 6.835335314685899,
+      "danger_zone_weight": 3.0617942937918845,
+      "mobility_weight": 1.1147419438611732,
+      "edge_stability_weight": 6.047883526143329,
+      "frontier_weight": 6.430902014530885,
+      "disc_weight": 4.05340266299207,
+      "parity_weight": 6.340693916060067,
+      "center_weight": 6.455261275354276
+    },
+    "elo": 1500.0,
+    "match_history": [],
+    "family_label": "Nu"
+  },
+  {
+    "id": "G1-8168",
+    "generation": 1,
+    "parent_a_id": "G0-014",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 7.089853542512357,
+      "danger_zone_weight": 1.941031825675055,
+      "mobility_weight": 2.588774955303452,
+      "edge_stability_weight": 7.554042687252194,
+      "frontier_weight": 1.8789882576804522,
+      "disc_weight": 8.966355968186607,
+      "parity_weight": 3.0247089409997665,
+      "center_weight": 5.771467093713197
+    },
+    "elo": 1564.0,
+    "match_history": [],
+    "family_label": "O"
+  },
+  {
+    "id": "G1-8D73",
+    "generation": 1,
+    "parent_a_id": "G0-003",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 6.066068979450834,
+      "danger_zone_weight": 9.314081077734151,
+      "mobility_weight": 6.695483369585426,
+      "edge_stability_weight": 4.34315664694401,
+      "frontier_weight": 8.523064228158889,
+      "disc_weight": 6.0018287245877735,
+      "parity_weight": 9.029876303151527,
+      "center_weight": 3.560985654574234
+    },
+    "elo": 1532.0,
+    "match_history": [],
+    "family_label": "D"
+  },
+  {
+    "id": "G1-3504",
+    "generation": 1,
+    "parent_a_id": "G0-005",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 2.9301598683902426,
+      "danger_zone_weight": 8.16428597129148,
+      "mobility_weight": 0.5055172083960648,
+      "edge_stability_weight": 6.1022171829986185,
+      "frontier_weight": 2.403985913647499,
+      "disc_weight": 8.32404636466292,
+      "parity_weight": 4.915562118631066,
+      "center_weight": 0.9690113881633311
+    },
+    "elo": 1532.0,
+    "match_history": [],
+    "family_label": "F"
+  },
+  {
+    "id": "G1-61E7",
+    "generation": 1,
+    "parent_a_id": "G0-012",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 8.990088715905404,
+      "danger_zone_weight": 2.069397323158065,
+      "mobility_weight": 5.199310027285071,
+      "edge_stability_weight": 1.4241970595372309,
+      "frontier_weight": 7.655395027682124,
+      "disc_weight": 10.885242186318289,
+      "parity_weight": 1.1360914226768581,
+      "center_weight": 3.8051485068047173
+    },
+    "elo": 1530.5981711137829,
+    "match_history": [],
+    "family_label": "M"
+  },
+  {
+    "id": "G1-B200",
+    "generation": 1,
+    "parent_a_id": "G0-002",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 8.125726124821707,
+      "danger_zone_weight": 7.955928654366994,
+      "mobility_weight": 3.4810979519023304,
+      "edge_stability_weight": 7.035295269910915,
+      "frontier_weight": 2.396942418530127,
+      "disc_weight": 7.882637179439753,
+      "parity_weight": 5.772140583840667,
+      "center_weight": 5.4768646633196205
+    },
+    "elo": 1516.0,
+    "match_history": [],
+    "family_label": "C"
+  },
+  {
+    "id": "G1-2E7A",
+    "generation": 1,
+    "parent_a_id": "G0-004",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 2.6352170410809004,
+      "danger_zone_weight": 6.451042796891461,
+      "mobility_weight": 3.9640172235461626,
+      "edge_stability_weight": 4.0771775648528585,
+      "frontier_weight": 7.69589093116576,
+      "disc_weight": 3.6640078856476777,
+      "parity_weight": 2.2674636255981446,
+      "center_weight": 5.52670378227017
+    },
+    "elo": 1516.0,
+    "match_history": [],
+    "family_label": "E"
+  },
+  {
+    "id": "G1-A3E1",
+    "generation": 1,
+    "parent_a_id": "G0-006",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 2.713405957632596,
+      "danger_zone_weight": 3.2398847158952844,
+      "mobility_weight": 9.688728297147282,
+      "edge_stability_weight": 9.440954157451193,
+      "frontier_weight": 4.90300559339733,
+      "disc_weight": 0.8759588460486849,
+      "parity_weight": 1.9135134918649603,
+      "center_weight": 4.034797741224043
+    },
+    "elo": 1501.4018288862171,
+    "match_history": [],
+    "family_label": "G"
+  }
+]
