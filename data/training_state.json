@@ -15,25 +15,30 @@
       "generation": 4,
       "win_rate": 0.0,
       "benchmark_depth": 5
+    },
+    {
+      "generation": 6,
+      "win_rate": 0.0,
+      "benchmark_depth": 5
     }
   ],
   "active_population_ids": [
     "G1-9347",
-    "G0-001",
-    "G0-006",
-    "G3-7896",
     "G3-58E0",
-    "G3-83C0",
+    "G5-C6A",
+    "G0-006",
+    "G0-001",
     "G1-ABF2",
-    "G1-9648",
-    "G5-42E4",
-    "G5-2AFB",
-    "G5-946F",
-    "G5-3D8D",
-    "G5-4DAE",
-    "G5-580E",
-    "G5-90BB",
-    "G5-C6A"
+    "G3-7896",
+    "G3-83C0",
+    "G7-57BB",
+    "G7-8EA3",
+    "G7-9B82",
+    "G7-42A0",
+    "G7-A838",
+    "G7-451A",
+    "G7-8D96",
+    "G7-3037"
   ],
   "title_holder_defeats": []
 }
