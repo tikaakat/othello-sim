@@ -93144,5 +93144,9226 @@
       "white": 23
     },
     "individual_a_color": "white"
+  },
+  {
+    "individual_a_id": "G17-85DE",
+    "individual_b_id": "G19-8519",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 19,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 22,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 54,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 39,
+      "white": 25
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-5271",
+    "individual_b_id": "G19-7542",
+    "opponent_type": "individual",
+    "result": "loss",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 50,
+        "color": 1
+      },
+      {
+        "pos": 0,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 54,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 22,
+      "white": 42
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G13-1B2F",
+    "individual_b_id": "G19-B5D0",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 29,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 37,
+      "white": 27
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-5856",
+    "individual_b_id": "G19-941A",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 44,
+        "color": 1
+      },
+      {
+        "pos": 37,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 29,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 62,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 22,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 51,
+      "white": 13
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-1C9C",
+    "individual_b_id": "G19-2A9F",
+    "opponent_type": "individual",
+    "result": "loss",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 32,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 2
+      },
+      {
+        "pos": 50,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 26,
+      "white": 38
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-6FA6",
+    "individual_b_id": "G19-5D78",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 37,
+        "color": 2
+      },
+      {
+        "pos": 44,
+        "color": 1
+      },
+      {
+        "pos": 19,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 50,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 54,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 38,
+      "white": 26
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G11-206B",
+    "individual_b_id": "G19-9A31",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 44,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 29,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 22,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 32,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 62,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 57,
+      "white": 7
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-4BDi",
+    "individual_b_id": "G19-1E27i",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 54,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 2
+      },
+      {
+        "pos": 32,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 34,
+      "white": 30
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-85DE",
+    "individual_b_id": "G19-7542",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 34,
+      "white": 30
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G13-1B2F",
+    "individual_b_id": "G17-5856",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      },
+      {
+        "pos": 22,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 50,
+      "white": 14
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G19-2A9F",
+    "individual_b_id": "G17-6FA6",
+    "opponent_type": "individual",
+    "result": "loss",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 30,
+      "white": 34
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G11-206B",
+    "individual_b_id": "G17-4BDi",
+    "opponent_type": "individual",
+    "result": "loss",
+    "moves": [
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 44,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 20,
+        "color": 1
+      },
+      {
+        "pos": 37,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 28,
+      "white": 36
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G19-8519",
+    "individual_b_id": "G17-5271",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 34,
+      "white": 30
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G19-B5D0",
+    "individual_b_id": "G19-941A",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      },
+      {
+        "pos": 22,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 53,
+      "white": 11
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-1C9C",
+    "individual_b_id": "G19-5D78",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 32,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 50,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 44,
+      "white": 20
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G19-9A31",
+    "individual_b_id": "G19-1E27i",
+    "opponent_type": "individual",
+    "result": "loss",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 29,
+        "color": 2
+      },
+      {
+        "pos": 44,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 54,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 62,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 21,
+      "white": 43
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-85DE",
+    "individual_b_id": "G13-1B2F",
+    "opponent_type": "individual",
+    "result": "loss",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 54,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 62,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 19,
+      "white": 45
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-6FA6",
+    "individual_b_id": "G17-4BDi",
+    "opponent_type": "individual",
+    "result": "draw",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 37,
+        "color": 2
+      },
+      {
+        "pos": 44,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 50,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 0,
+        "color": 2
+      },
+      {
+        "pos": 32,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 22,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 32,
+      "white": 32
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G19-8519",
+    "individual_b_id": "G19-7542",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 34,
+      "white": 30
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G19-B5D0",
+    "individual_b_id": "G17-5856",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      },
+      {
+        "pos": 22,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 50,
+      "white": 14
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-1C9C",
+    "individual_b_id": "G11-206B",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 44,
+        "color": 1
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 19,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 50,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 48,
+      "white": 16
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G19-2A9F",
+    "individual_b_id": "G19-1E27i",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 44,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 22,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 32,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 54,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 45,
+      "white": 19
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-5271",
+    "individual_b_id": "G19-941A",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      },
+      {
+        "pos": 44,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 0,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 49,
+      "white": 15
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G19-5D78",
+    "individual_b_id": "G19-9A31",
+    "opponent_type": "individual",
+    "result": "loss",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 22,
+      "white": 42
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G13-1B2F",
+    "individual_b_id": "G17-6FA6",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 54,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 37,
+      "white": 27
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-4BDi",
+    "individual_b_id": "G19-8519",
+    "opponent_type": "individual",
+    "result": "loss",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 19,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 44,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 32,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 62,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 22,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 2,
+      "white": 61
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-85DE",
+    "individual_b_id": "G19-B5D0",
+    "opponent_type": "individual",
+    "result": "loss",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 1,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 54,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 62,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 0,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 23,
+      "white": 41
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-1C9C",
+    "individual_b_id": "G19-7542",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 50,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 32,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 54,
+      "white": 10
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G19-2A9F",
+    "individual_b_id": "G17-5271",
+    "opponent_type": "individual",
+    "result": "draw",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 11,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 59,
+        "color": 1
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 38,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 49,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 56,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 50,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 54,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 32,
+      "white": 32
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G17-5856",
+    "individual_b_id": "G11-206B",
+    "opponent_type": "individual",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 44,
+        "color": 1
+      },
+      {
+        "pos": 37,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 21,
+        "color": 1
+      },
+      {
+        "pos": 29,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 53,
+        "color": 2
+      },
+      {
+        "pos": 51,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 62,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 50,
+        "color": 1
+      },
+      {
+        "pos": 46,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 12,
+        "color": 2
+      },
+      {
+        "pos": 3,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 26,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 0,
+        "color": 2
+      },
+      {
+        "pos": 32,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 16,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 35,
+      "white": 29
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G19-9A31",
+    "individual_b_id": "G19-941A",
+    "opponent_type": "individual",
+    "result": "draw",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 24,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 15,
+        "color": 1
+      },
+      {
+        "pos": 31,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 6,
+        "color": 1
+      },
+      {
+        "pos": 5,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 55,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 57,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 32,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 2
+      },
+      {
+        "pos": 62,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 32,
+      "white": 32
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G19-1E27i",
+    "individual_b_id": "G19-5D78",
+    "opponent_type": "individual",
+    "result": "loss",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 45,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 22,
+        "color": 1
+      },
+      {
+        "pos": 23,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 0,
+      "white": 22
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G13-1B2F",
+    "opponent_type": "benchmark",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 19,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 62,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 11,
+      "white": 53
+    },
+    "individual_a_color": "white"
+  },
+  {
+    "individual_a_id": "G13-1B2F",
+    "opponent_type": "benchmark",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 19,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 62,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 11,
+      "white": 53
+    },
+    "individual_a_color": "white"
+  },
+  {
+    "individual_a_id": "G13-1B2F",
+    "opponent_type": "benchmark",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 42,
+        "color": 2
+      },
+      {
+        "pos": 34,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 41,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 48,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 39,
+        "color": 1
+      },
+      {
+        "pos": 30,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 19,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 33,
+        "color": 2
+      },
+      {
+        "pos": 52,
+        "color": 1
+      },
+      {
+        "pos": 10,
+        "color": 2
+      },
+      {
+        "pos": 43,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 50,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 40,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 58,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 2
+      },
+      {
+        "pos": 17,
+        "color": 1
+      },
+      {
+        "pos": 7,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 61,
+        "color": 2
+      },
+      {
+        "pos": 13,
+        "color": 1
+      },
+      {
+        "pos": 60,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 4,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 18,
+        "color": 1
+      },
+      {
+        "pos": 2,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 9,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 62,
+        "color": 1
+      },
+      {
+        "pos": 63,
+        "color": 2
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 11,
+      "white": 53
+    },
+    "individual_a_color": "white"
+  },
+  {
+    "individual_a_id": "G13-1B2F",
+    "opponent_type": "benchmark",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 50,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 53,
+      "white": 11
+    },
+    "individual_a_color": "black"
+  },
+  {
+    "individual_a_id": "G13-1B2F",
+    "opponent_type": "benchmark",
+    "result": "win",
+    "moves": [
+      {
+        "pos": 26,
+        "color": 1
+      },
+      {
+        "pos": 18,
+        "color": 2
+      },
+      {
+        "pos": 19,
+        "color": 1
+      },
+      {
+        "pos": 34,
+        "color": 2
+      },
+      {
+        "pos": 42,
+        "color": 1
+      },
+      {
+        "pos": 20,
+        "color": 2
+      },
+      {
+        "pos": 37,
+        "color": 1
+      },
+      {
+        "pos": 44,
+        "color": 2
+      },
+      {
+        "pos": 33,
+        "color": 1
+      },
+      {
+        "pos": 43,
+        "color": 2
+      },
+      {
+        "pos": 50,
+        "color": 1
+      },
+      {
+        "pos": 32,
+        "color": 2
+      },
+      {
+        "pos": 45,
+        "color": 1
+      },
+      {
+        "pos": 58,
+        "color": 2
+      },
+      {
+        "pos": 11,
+        "color": 1
+      },
+      {
+        "pos": 54,
+        "color": 2
+      },
+      {
+        "pos": 46,
+        "color": 1
+      },
+      {
+        "pos": 3,
+        "color": 2
+      },
+      {
+        "pos": 63,
+        "color": 1
+      },
+      {
+        "pos": 51,
+        "color": 2
+      },
+      {
+        "pos": 41,
+        "color": 1
+      },
+      {
+        "pos": 52,
+        "color": 2
+      },
+      {
+        "pos": 60,
+        "color": 1
+      },
+      {
+        "pos": 40,
+        "color": 2
+      },
+      {
+        "pos": 53,
+        "color": 1
+      },
+      {
+        "pos": 38,
+        "color": 2
+      },
+      {
+        "pos": 31,
+        "color": 1
+      },
+      {
+        "pos": 47,
+        "color": 2
+      },
+      {
+        "pos": 29,
+        "color": 1
+      },
+      {
+        "pos": 22,
+        "color": 2
+      },
+      {
+        "pos": 55,
+        "color": 1
+      },
+      {
+        "pos": 39,
+        "color": 2
+      },
+      {
+        "pos": 30,
+        "color": 1
+      },
+      {
+        "pos": 21,
+        "color": 2
+      },
+      {
+        "pos": 23,
+        "color": 1
+      },
+      {
+        "pos": 62,
+        "color": 2
+      },
+      {
+        "pos": 61,
+        "color": 1
+      },
+      {
+        "pos": 59,
+        "color": 2
+      },
+      {
+        "pos": 57,
+        "color": 1
+      },
+      {
+        "pos": 15,
+        "color": 2
+      },
+      {
+        "pos": 7,
+        "color": 1
+      },
+      {
+        "pos": 25,
+        "color": 1
+      },
+      {
+        "pos": 17,
+        "color": 2
+      },
+      {
+        "pos": 49,
+        "color": 1
+      },
+      {
+        "pos": 56,
+        "color": 2
+      },
+      {
+        "pos": 14,
+        "color": 1
+      },
+      {
+        "pos": 6,
+        "color": 2
+      },
+      {
+        "pos": 12,
+        "color": 1
+      },
+      {
+        "pos": 13,
+        "color": 2
+      },
+      {
+        "pos": 5,
+        "color": 1
+      },
+      {
+        "pos": 4,
+        "color": 2
+      },
+      {
+        "pos": 10,
+        "color": 1
+      },
+      {
+        "pos": 1,
+        "color": 2
+      },
+      {
+        "pos": 2,
+        "color": 1
+      },
+      {
+        "pos": 9,
+        "color": 2
+      },
+      {
+        "pos": 0,
+        "color": 1
+      },
+      {
+        "pos": 8,
+        "color": 1
+      },
+      {
+        "pos": 16,
+        "color": 2
+      },
+      {
+        "pos": 24,
+        "color": 1
+      },
+      {
+        "pos": 48,
+        "color": 1
+      }
+    ],
+    "generation": 20,
+    "final_score": {
+      "black": 53,
+      "white": 11
+    },
+    "individual_a_color": "black"
   }
 ]
