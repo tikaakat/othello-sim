@@ -140,25 +140,30 @@
       "generation": 54,
       "win_rate": 0.0,
       "benchmark_depth": 6
+    },
+    {
+      "generation": 56,
+      "win_rate": 0.0,
+      "benchmark_depth": 5
     }
   ],
   "active_population_ids": [
-    "G49-132i",
     "G47-6A16",
-    "G53-3031",
-    "G51-457C",
-    "G51-6A4A",
-    "G47-6080i",
-    "G51-8F73i",
-    "G51-90FE",
-    "G55-1B7Di",
-    "G55-ABE",
-    "G55-A72E",
     "G55-8AF1",
+    "G51-6A4A",
+    "G49-132i",
+    "G51-457C",
     "G55-635C",
-    "G55-4D22",
-    "G55-8A09",
-    "G55-530"
+    "G47-6080i",
+    "G55-1B7Di",
+    "G57-A778i",
+    "G57-ABE3",
+    "G57-1668",
+    "G57-254F",
+    "G57-92CD",
+    "G57-8FEB",
+    "G57-6196",
+    "G57-4B1C"
   ],
   "title_holder_defeats": [
     {
@@ -183,6 +188,7 @@
     "In": 52,
     "Dv": 54,
     "Bw": 56,
-    "Ev": 58
+    "Ev": 58,
+    "Ww": 60
   }
 }
