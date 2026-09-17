@@ -270,25 +270,30 @@
       "generation": 106,
       "win_rate": 0.8,
       "benchmark_depth": 5
+    },
+    {
+      "generation": 108,
+      "win_rate": 0.4,
+      "benchmark_depth": 6
     }
   ],
   "active_population_ids": [
-    "G103-568Di",
     "G99-B331",
+    "G103-2F1A",
     "G105-817B",
     "G105-7076",
-    "G103-2F1A",
-    "G105-1F51",
-    "G101-D9",
-    "G105-AC46i",
     "G107-9EDAi",
-    "G107-B0CD",
-    "G107-91BA",
-    "G107-8354",
     "G107-54B5",
     "G107-6B7B",
-    "G107-2E28",
-    "G107-7235"
+    "G105-AC46i",
+    "G109-A5C1i",
+    "G109-35A0",
+    "G109-18F8",
+    "G109-7D14",
+    "G109-8C0A",
+    "G109-AE3E",
+    "G109-2E52",
+    "G109-37FE"
   ],
   "title_holder_defeats": [
     {
@@ -320,6 +325,7 @@
     "Yp": 104,
     "Fo": 106,
     "Pv": 108,
-    "Mu": 110
+    "Mu": 110,
+    "El": 112
   }
 }
