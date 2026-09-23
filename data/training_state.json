@@ -400,25 +400,30 @@
       "generation": 158,
       "win_rate": 0.6,
       "benchmark_depth": 5
+    },
+    {
+      "generation": 160,
+      "win_rate": 0.0,
+      "benchmark_depth": 5
     }
   ],
   "active_population_ids": [
-    "G155-3D57",
+    "G159-8565",
     "G157-A777",
     "G155-265C",
-    "G155-AAC8i",
-    "G157-AD65i",
-    "G157-87DF",
     "G157-5D9",
-    "G153-3A07",
-    "G159-982Bi",
+    "G155-3D57",
+    "G157-AD65i",
     "G159-514F",
-    "G159-341E",
-    "G159-2B2B",
-    "G159-24E9",
-    "G159-B1FF",
-    "G159-8565",
-    "G159-5B2B"
+    "G159-982Bi",
+    "G161-6D6Bi",
+    "G161-12D0",
+    "G161-5BAD",
+    "G161-370C",
+    "G161-B3A9",
+    "G161-5834",
+    "G161-9681",
+    "G161-4989"
   ],
   "title_holder_defeats": [
     {
@@ -441,22 +446,18 @@
     }
   ],
   "guaranteed_families": [
-    "Ia",
-    "Ww",
-    "Yy",
-    "Dv",
-    "Cm",
     "Zn",
-    "Pb",
-    "Mu"
+    "Yy",
+    "Mu",
+    "Dv",
+    "Ia",
+    "Vy",
+    "Rl",
+    "Ww"
   ],
   "grace_info": {
-    "Na": 150,
-    "Ia": 152,
-    "Mx": 154,
-    "Vi": 156,
-    "Vy": 158,
     "Rl": 160,
-    "Mi": 162
+    "Mi": 162,
+    "Jv": 164
   }
 }
