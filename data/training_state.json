@@ -1,5 +1,5 @@
 {
-  "benchmark_depth": 5,
+  "benchmark_depth": 6,
   "win_rate_history": [
     {
       "generation": 0,
@@ -800,25 +800,30 @@
       "generation": 318,
       "win_rate": 0.0,
       "benchmark_depth": 6
+    },
+    {
+      "generation": 320,
+      "win_rate": 1.0,
+      "benchmark_depth": 5
     }
   ],
   "active_population_ids": [
     "G315-7EB7",
+    "G319-A875",
     "G313-41C9",
     "G317-93C0",
-    "G317-45D7",
-    "G315-39C3",
-    "G313-6275",
-    "G315-A058i",
-    "G317-9C98",
     "G319-2CD1i",
-    "G319-6BE7",
-    "G319-A875",
-    "G319-7E2D",
-    "G319-B257",
-    "G319-1969",
-    "G319-1EF3",
-    "G319-2379"
+    "G317-9C98",
+    "G313-6275",
+    "G319-2379",
+    "G321-73i",
+    "G321-8687",
+    "G321-3403",
+    "G321-2340",
+    "G321-3D4D",
+    "G321-61A8",
+    "G321-8529",
+    "G321-7B66"
   ],
   "title_holder_defeats": [
     {
@@ -844,25 +849,27 @@
       "family_label": "Yy",
       "generation": 166,
       "wins": 3
+    },
+    {
+      "individual_id": "G315-7EB7",
+      "family_label": "Bo",
+      "generation": 320,
+      "wins": 3
     }
   ],
   "guaranteed_families": [
-    "Or",
     "Bo",
-    "Cp",
     "Ww",
-    "Zn",
-    "Jj",
     "Re",
-    "Iu"
+    "Or",
+    "Yh",
+    "Zn",
+    "Iu",
+    "Cp"
   ],
   "grace_info": {
-    "Zm": 310,
-    "Cp": 312,
-    "La": 314,
-    "Kb": 316,
-    "Vr": 318,
     "Do": 320,
-    "Yh": 322
+    "Yh": 322,
+    "An": 324
   }
 }
