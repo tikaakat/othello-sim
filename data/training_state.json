@@ -1,5 +1,5 @@
 {
-  "benchmark_depth": 6,
+  "benchmark_depth": 5,
   "win_rate_history": [
     {
       "generation": 0,
@@ -935,25 +935,30 @@
       "generation": 372,
       "win_rate": 1.0,
       "benchmark_depth": 5
+    },
+    {
+      "generation": 374,
+      "win_rate": 0.2,
+      "benchmark_depth": 6
     }
   ],
   "active_population_ids": [
     "G371-ADC5i",
-    "G371-FB2",
     "G371-DB7",
     "G365-934F",
-    "G371-ABBF",
-    "G369-45E7",
-    "G371-48CF",
-    "G367-8DCi",
-    "G373-B114i",
     "G373-93DC",
     "G373-8A22",
+    "G371-ABBF",
+    "G373-B114i",
     "G373-FD7",
-    "G373-A114",
-    "G373-74EB",
-    "G373-40DF",
-    "G373-646"
+    "G375-8FC0i",
+    "G375-7C54",
+    "G375-8C68",
+    "G375-7D24",
+    "G375-3CF6",
+    "G375-380A",
+    "G375-7F48",
+    "G375-A050"
   ],
   "title_holder_defeats": [
     {
@@ -1007,6 +1012,7 @@
     "Wz": 370,
     "Hh": 372,
     "Co": 374,
-    "Vz": 376
+    "Vz": 376,
+    "Cw": 378
   }
 }
