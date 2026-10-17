@@ -94154,7 +94154,7 @@
       "parity_weight": 7.689120984290405,
       "center_weight": 2.5172365998676307
     },
-    "elo": 2124.986736080508,
+    "elo": 2082.912482820862,
     "match_history": [
       {
         "opponent": "G363-70C7",
@@ -94315,6 +94315,26 @@
         "opponent": "G373-8A22",
         "result": "win",
         "generation": 374
+      },
+      {
+        "opponent": "G375-380A",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-7F48",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-A050",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-7D24",
+        "result": "loss",
+        "generation": 376
       }
     ],
     "family_label": "Ry"
@@ -95254,7 +95274,7 @@
       "parity_weight": 9.215178552697983,
       "center_weight": 1.8005614035392001
     },
-    "elo": 1681.7781910646945,
+    "elo": 1762.390647522355,
     "match_history": [
       {
         "opponent": "G369-445Di",
@@ -95354,6 +95374,56 @@
         "opponent": "benchmark",
         "result": "loss",
         "generation": 374,
+        "color": "black"
+      },
+      {
+        "opponent": "G375-A050",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-B114i",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-7F48",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-93DC",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "benchmark",
+        "result": "win",
+        "generation": 376,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "win",
+        "generation": 376,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "win",
+        "generation": 376,
+        "color": "white"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "win",
+        "generation": 376,
+        "color": "white"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "win",
+        "generation": 376,
         "color": "black"
       }
     ],
@@ -95534,7 +95604,7 @@
       "parity_weight": 6.636432110450772,
       "center_weight": 4.057676071964046
     },
-    "elo": 2627.992102429793,
+    "elo": 2636.3943354721364,
     "match_history": [
       {
         "opponent": "G369-25FB",
@@ -95575,6 +95645,26 @@
         "opponent": "G369-45E7",
         "result": "win",
         "generation": 374
+      },
+      {
+        "opponent": "G375-7D24",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-3CF6",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-8C68",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-8A22",
+        "result": "win",
+        "generation": 376
       }
     ],
     "family_label": "Iu"
@@ -95634,7 +95724,7 @@
       "parity_weight": 3.1611281530269166,
       "center_weight": 1.6001122303416053
     },
-    "elo": 1834.996910450186,
+    "elo": 1823.164613315498,
     "match_history": [
       {
         "opponent": "G369-2FB4",
@@ -95675,6 +95765,26 @@
         "opponent": "G371-48CF",
         "result": "win",
         "generation": 374
+      },
+      {
+        "opponent": "G375-7F48",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-380A",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-8FC0i",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-B114i",
+        "result": "win",
+        "generation": 376
       }
     ],
     "family_label": "Am"
@@ -95734,7 +95844,7 @@
       "parity_weight": 3.6668938496171455,
       "center_weight": 1.06225631435982
     },
-    "elo": 1529.6220873546877,
+    "elo": 1528.584720686358,
     "match_history": [
       {
         "opponent": "G371-ADC5i",
@@ -95755,6 +95865,26 @@
         "opponent": "G373-646",
         "result": "win",
         "generation": 374
+      },
+      {
+        "opponent": "G375-8FC0i",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G371-ADC5i",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-380A",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G371-ABBF",
+        "result": "loss",
+        "generation": 376
       }
     ],
     "family_label": "Vz"
@@ -95774,7 +95904,7 @@
       "parity_weight": 1.2851483902988448,
       "center_weight": 1.3254570578519569
     },
-    "elo": 2900.6054267105546,
+    "elo": 2898.205726230439,
     "match_history": [
       {
         "opponent": "G369-45E7",
@@ -95795,6 +95925,26 @@
         "opponent": "G373-FD7",
         "result": "win",
         "generation": 374
+      },
+      {
+        "opponent": "G375-7C54",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-8A22",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-FD7",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G371-ADC5i",
+        "result": "loss",
+        "generation": 376
       }
     ],
     "family_label": "Bo"
@@ -95814,7 +95964,7 @@
       "parity_weight": 1.0655575581238028,
       "center_weight": 1.3146672218415247
     },
-    "elo": 2740.438463293594,
+    "elo": 2716.2731340788882,
     "match_history": [
       {
         "opponent": "G371-FB2",
@@ -95835,6 +95985,26 @@
         "opponent": "G365-934F",
         "result": "loss",
         "generation": 374
+      },
+      {
+        "opponent": "G375-8C68",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-93DC",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-7C54",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G371-DB7",
+        "result": "loss",
+        "generation": 376
       }
     ],
     "family_label": "Ww"
@@ -95854,7 +96024,7 @@
       "parity_weight": 7.590092197206341,
       "center_weight": 1.5556116608165746
     },
-    "elo": 2575.164507038821,
+    "elo": 2600.242721554507,
     "match_history": [
       {
         "opponent": "G371-48CF",
@@ -95875,6 +96045,26 @@
         "opponent": "G373-93DC",
         "result": "loss",
         "generation": 374
+      },
+      {
+        "opponent": "G375-3CF6",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-7D24",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-93DC",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-7C54",
+        "result": "loss",
+        "generation": 376
       }
     ],
     "family_label": "Zn"
@@ -96054,8 +96244,29 @@
       "parity_weight": 2.7498428152414203,
       "center_weight": 8.885944870518806
     },
-    "elo": 1500.0,
-    "match_history": [],
+    "elo": 1472.9444396903586,
+    "match_history": [
+      {
+        "opponent": "G373-B114i",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-A050",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G371-ABBF",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-8C68",
+        "result": "loss",
+        "generation": 376
+      }
+    ],
     "family_label": "Cw"
   },
   {
@@ -96073,8 +96284,29 @@
       "parity_weight": 1.2851483902988448,
       "center_weight": 1.3254570578519569
     },
-    "elo": 2900.6054267105546,
-    "match_history": [],
+    "elo": 2908.2159072875615,
+    "match_history": [
+      {
+        "opponent": "G373-93DC",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-8C68",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-8A22",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-FD7",
+        "result": "win",
+        "generation": 376
+      }
+    ],
     "family_label": "Bo"
   },
   {
@@ -96092,8 +96324,29 @@
       "parity_weight": 1.0867207208373517,
       "center_weight": 1.3146672218415247
     },
-    "elo": 2740.438463293594,
-    "match_history": [],
+    "elo": 2693.9729145013202,
+    "match_history": [
+      {
+        "opponent": "G373-8A22",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-7C54",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G371-DB7",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-8FC0i",
+        "result": "win",
+        "generation": 376
+      }
+    ],
     "family_label": "Ww"
   },
   {
@@ -96111,8 +96364,29 @@
       "parity_weight": 6.636432110450772,
       "center_weight": 4.057676071964046
     },
-    "elo": 2627.992102429793,
-    "match_history": [],
+    "elo": 2608.884004307893,
+    "match_history": [
+      {
+        "opponent": "G371-DB7",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-FD7",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-3CF6",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G365-934F",
+        "result": "win",
+        "generation": 376
+      }
+    ],
     "family_label": "Iu"
   },
   {
@@ -96130,8 +96404,29 @@
       "parity_weight": 5.779968697863961,
       "center_weight": 1.5556116608165746
     },
-    "elo": 2575.164507038821,
-    "match_history": [],
+    "elo": 2565.6681396138233,
+    "match_history": [
+      {
+        "opponent": "G373-FD7",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G371-DB7",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-7D24",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-380A",
+        "result": "loss",
+        "generation": 376
+      }
+    ],
     "family_label": "Zn"
   },
   {
@@ -96149,8 +96444,29 @@
       "parity_weight": 7.689120984290405,
       "center_weight": 2.5172365998676307
     },
-    "elo": 2124.986736080508,
-    "match_history": [],
+    "elo": 2145.2679677723213,
+    "match_history": [
+      {
+        "opponent": "G365-934F",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G371-ABBF",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G373-B114i",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-3CF6",
+        "result": "win",
+        "generation": 376
+      }
+    ],
     "family_label": "Ry"
   },
   {
@@ -96168,8 +96484,29 @@
       "parity_weight": 3.1611281530269166,
       "center_weight": 1.54756698386903
     },
-    "elo": 1834.996910450186,
-    "match_history": [],
+    "elo": 1832.0961036397537,
+    "match_history": [
+      {
+        "opponent": "G371-ABBF",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G365-934F",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G371-ADC5i",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-A050",
+        "result": "loss",
+        "generation": 376
+      }
+    ],
     "family_label": "Am"
   },
   {
@@ -96187,8 +96524,181 @@
       "parity_weight": 9.215178552697983,
       "center_weight": 1.8005614035392001
     },
-    "elo": 1681.7781910646945,
-    "match_history": [],
+    "elo": 1726.3289029969133,
+    "match_history": [
+      {
+        "opponent": "G371-ADC5i",
+        "result": "loss",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-8FC0i",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G365-934F",
+        "result": "win",
+        "generation": 376
+      },
+      {
+        "opponent": "G375-7F48",
+        "result": "win",
+        "generation": 376
+      }
+    ],
     "family_label": "Co"
+  },
+  {
+    "id": "G377-B2D3i",
+    "generation": 377,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 8.241866503556574,
+      "danger_zone_weight": 4.633882507299191,
+      "mobility_weight": 7.059751643721965,
+      "edge_stability_weight": 1.1607575584546512,
+      "frontier_weight": 3.997747766325979,
+      "disc_weight": 5.990846639030506,
+      "parity_weight": 8.712323752754216,
+      "center_weight": 5.187403130047881
+    },
+    "elo": 1500.0,
+    "match_history": [],
+    "family_label": "Ko"
+  },
+  {
+    "id": "G377-178E",
+    "generation": 377,
+    "parent_a_id": "G375-7C54",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 7.846141137634885,
+      "danger_zone_weight": 5.784200598250914,
+      "mobility_weight": 0.8961277991646801,
+      "edge_stability_weight": 0.8424465237749895,
+      "frontier_weight": 3.538371756015076,
+      "disc_weight": 3.0328840072787857,
+      "parity_weight": 1.3570900744381003,
+      "center_weight": 1.3254570578519569
+    },
+    "elo": 2908.2159072875615,
+    "match_history": [],
+    "family_label": "Bo"
+  },
+  {
+    "id": "G377-7C9D",
+    "generation": 377,
+    "parent_a_id": "G373-8A22",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 5.028810755252249,
+      "danger_zone_weight": 9.83263617752986,
+      "mobility_weight": 5.724653614508227,
+      "edge_stability_weight": 3.780050644337292,
+      "frontier_weight": 5.809895919991056,
+      "disc_weight": 3.339499073179939,
+      "parity_weight": 0.9890063426050341,
+      "center_weight": 1.1887441220003017
+    },
+    "elo": 2716.2731340788882,
+    "match_history": [],
+    "family_label": "Ww"
+  },
+  {
+    "id": "G377-62C3",
+    "generation": 377,
+    "parent_a_id": "G371-DB7",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 9.159865424419062,
+      "danger_zone_weight": 7.053240833384021,
+      "mobility_weight": 9.60296616486567,
+      "edge_stability_weight": 8.292896292547542,
+      "frontier_weight": 0.8057339431778795,
+      "disc_weight": 3.5303002147965827,
+      "parity_weight": 6.636432110450772,
+      "center_weight": 4.057676071964046
+    },
+    "elo": 2636.3943354721364,
+    "match_history": [],
+    "family_label": "Iu"
+  },
+  {
+    "id": "G377-6058",
+    "generation": 377,
+    "parent_a_id": "G373-FD7",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 2.960461470743429,
+      "danger_zone_weight": 10.508296602237664,
+      "mobility_weight": 0.5030847330903244,
+      "edge_stability_weight": 7.132908489565187,
+      "frontier_weight": 4.74947047722122,
+      "disc_weight": 0.8296908269883327,
+      "parity_weight": 7.590092197206341,
+      "center_weight": 1.5556116608165746
+    },
+    "elo": 2600.242721554507,
+    "match_history": [],
+    "family_label": "Zn"
+  },
+  {
+    "id": "G377-1040",
+    "generation": 377,
+    "parent_a_id": "G375-380A",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 3.9663349395102068,
+      "danger_zone_weight": 5.636039203051348,
+      "mobility_weight": 5.296828200277576,
+      "edge_stability_weight": 2.959906812273388,
+      "frontier_weight": 9.410649053755659,
+      "disc_weight": 9.733732389477325,
+      "parity_weight": 7.24294278877765,
+      "center_weight": 2.5172365998676307
+    },
+    "elo": 2145.2679677723213,
+    "match_history": [],
+    "family_label": "Ry"
+  },
+  {
+    "id": "G377-6562",
+    "generation": 377,
+    "parent_a_id": "G375-7F48",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 5.352255363801514,
+      "danger_zone_weight": 1.319130000736712,
+      "mobility_weight": 5.710524791190707,
+      "edge_stability_weight": 6.770054532368645,
+      "frontier_weight": 8.399055996811462,
+      "disc_weight": 0.7490441271608401,
+      "parity_weight": 2.662036888969291,
+      "center_weight": 1.54756698386903
+    },
+    "elo": 1832.0961036397537,
+    "match_history": [],
+    "family_label": "Am"
+  },
+  {
+    "id": "G377-6BCF",
+    "generation": 377,
+    "parent_a_id": "G373-B114i",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 0.5045731798710026,
+      "danger_zone_weight": 1.7619003148509367,
+      "mobility_weight": 3.412578509123995,
+      "edge_stability_weight": 7.65490571086096,
+      "frontier_weight": 5.2601006700780895,
+      "disc_weight": 8.007442825918671,
+      "parity_weight": 3.6668938496171455,
+      "center_weight": 1.06225631435982
+    },
+    "elo": 1528.584720686358,
+    "match_history": [],
+    "family_label": "Vz"
   }
 ]
