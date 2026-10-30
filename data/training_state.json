@@ -1275,25 +1275,30 @@
       "generation": 508,
       "win_rate": 0.8,
       "benchmark_depth": 5
+    },
+    {
+      "generation": 510,
+      "win_rate": 0.8,
+      "benchmark_depth": 6
     }
   ],
   "active_population_ids": [
     "G507-46E8",
-    "G507-6701",
-    "G505-A828i",
-    "G507-1132",
-    "G507-7AF4",
-    "G507-4ADA",
-    "G507-74DBi",
-    "G505-395",
-    "G509-B074i",
-    "G509-7B3F",
     "G509-4BB0",
+    "G507-6701",
     "G509-63E1",
     "G509-8129",
-    "G509-24C5",
     "G509-1026",
-    "G509-45CF"
+    "G507-74DBi",
+    "G509-B074i",
+    "G511-2A1i",
+    "G511-3F96",
+    "G511-50",
+    "G511-338C",
+    "G511-9CAA",
+    "G511-16A7",
+    "G511-913",
+    "G511-4293"
   ],
   "title_holder_defeats": [
     {
@@ -1340,22 +1345,18 @@
     }
   ],
   "guaranteed_families": [
-    "Jy",
     "Ko",
+    "Bo",
+    "Jy",
+    "Uw",
     "Ww",
     "Lu",
-    "Bo",
     "Dh",
-    "Zz",
-    "Vi"
+    "Ay"
   ],
   "grace_info": {
-    "Ic": 500,
-    "Zz": 502,
-    "Dv": 504,
-    "Mq": 506,
-    "Uw": 508,
     "Ay": 510,
-    "Wu": 512
+    "Wu": 512,
+    "Yz": 514
   }
 }
