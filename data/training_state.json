@@ -1505,6 +1505,11 @@
       "generation": 600,
       "win_rate": 1.0,
       "benchmark_depth": 5
+    },
+    {
+      "generation": 602,
+      "win_rate": 0.4,
+      "benchmark_depth": 6
     }
   ],
   "active_population_ids": [
@@ -1512,18 +1517,18 @@
     "G597-553",
     "G599-B2D3",
     "G593-64F3",
-    "G599-9C4Bi",
     "G599-5D3E",
     "G599-A9E7",
-    "G599-7D11",
     "G601-4AD2i",
-    "G601-2D9D",
-    "G601-488F",
-    "G601-2A3A",
-    "G601-976A",
-    "G601-5085",
-    "G601-20B7",
-    "G601-B2ED"
+    "G599-9C4Bi",
+    "G603-2B01i",
+    "G603-59DA",
+    "G603-AE23",
+    "G603-A74",
+    "G603-76E8",
+    "G603-B5B5",
+    "G603-2CE4",
+    "G603-5BBA"
   ],
   "title_holder_defeats": [
     {
@@ -1588,6 +1593,7 @@
   "grace_info": {
     "Sz": 600,
     "Rr": 602,
-    "Vv": 604
+    "Vv": 604,
+    "Yb": 606
   }
 }
