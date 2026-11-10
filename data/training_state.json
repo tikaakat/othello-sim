@@ -1545,25 +1545,30 @@
       "generation": 616,
       "win_rate": 1.0,
       "benchmark_depth": 6
+    },
+    {
+      "generation": 618,
+      "win_rate": 1.0,
+      "benchmark_depth": 6
     }
   ],
   "active_population_ids": [
     "G599-B2D3",
-    "G613-2E0B",
-    "G613-A1BAi",
     "G611-5C66",
-    "G613-91FD",
     "G613-6F2C",
-    "G615-6717",
-    "G615-47FD",
     "G617-789i",
-    "G617-8A4A",
-    "G617-1BED",
-    "G617-87DA",
-    "G617-3B99",
-    "G617-D03",
-    "G617-474F",
-    "G617-430"
+    "G613-2E0B",
+    "G615-47FD",
+    "G615-6717",
+    "G613-91FD",
+    "G619-1728i",
+    "G619-B100",
+    "G619-2A94",
+    "G619-13D9",
+    "G619-5E7A",
+    "G619-1208",
+    "G619-723C",
+    "G619-90AF"
   ],
   "title_holder_defeats": [
     {
@@ -1625,6 +1630,12 @@
       "family_label": "Ko",
       "generation": 616,
       "wins": 4
+    },
+    {
+      "individual_id": "G599-B2D3",
+      "family_label": "Ww",
+      "generation": 618,
+      "wins": 3
     }
   ],
   "guaranteed_families": [
@@ -1643,6 +1654,7 @@
     "Bf": 614,
     "Ph": 616,
     "Rz": 618,
-    "Se": 620
+    "Se": 620,
+    "Za": 622
   }
 }
