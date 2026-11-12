@@ -161074,7 +161074,7 @@
       "parity_weight": 2.226231021330448,
       "center_weight": 2.9146411114444324
     },
-    "elo": 1700.4947040380641,
+    "elo": 1782.1525348965351,
     "match_history": [
       {
         "opponent": "G625-852Di",
@@ -161165,6 +161165,56 @@
         "result": "loss",
         "generation": 634,
         "color": "white"
+      },
+      {
+        "opponent": "G635-1E0B",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G631-7FBCi",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G633-9C2D",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-2A02",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 636,
+        "color": "white"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 636,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 636,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 636,
+        "color": "black"
+      },
+      {
+        "opponent": "benchmark",
+        "result": "loss",
+        "generation": 636,
+        "color": "black"
       }
     ],
     "family_label": "Yl"
@@ -161184,7 +161234,7 @@
       "parity_weight": 14.245229869599367,
       "center_weight": 3.964646171093077
     },
-    "elo": 3380.819397193057,
+    "elo": 3312.8408380405135,
     "match_history": [
       {
         "opponent": "G627-2211",
@@ -161245,6 +161295,26 @@
         "opponent": "G633-A7B0",
         "result": "win",
         "generation": 634
+      },
+      {
+        "opponent": "G635-974B",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-9569",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-618E",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-2228",
+        "result": "win",
+        "generation": 636
       }
     ],
     "family_label": "Ko"
@@ -161304,7 +161374,7 @@
       "parity_weight": 4.208402835926586,
       "center_weight": 5.016402354163378
     },
-    "elo": 2354.5445452862436,
+    "elo": 2359.1363125839703,
     "match_history": [
       {
         "opponent": "G619-5E7A",
@@ -161365,6 +161435,26 @@
         "opponent": "G629-2D88",
         "result": "win",
         "generation": 634
+      },
+      {
+        "opponent": "G635-2A02",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-618E",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-9569",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-2D88",
+        "result": "win",
+        "generation": 636
       }
     ],
     "family_label": "Qq"
@@ -161444,7 +161534,7 @@
       "parity_weight": 2.5695069229185408,
       "center_weight": 5.648298487043015
     },
-    "elo": 2043.2961662207122,
+    "elo": 2003.1925223449934,
     "match_history": [
       {
         "opponent": "G625-7077",
@@ -161505,6 +161595,26 @@
         "opponent": "G629-6086",
         "result": "loss",
         "generation": 634
+      },
+      {
+        "opponent": "G635-1696",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G633-9C2D",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G631-7FBCi",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-6086",
+        "result": "loss",
+        "generation": 636
       }
     ],
     "family_label": "Rr"
@@ -161624,7 +161734,7 @@
       "parity_weight": 8.343211673707536,
       "center_weight": 1.5929356367359415
     },
-    "elo": 1555.8614511856738,
+    "elo": 1589.7818585582424,
     "match_history": [
       {
         "opponent": "G629-8964i",
@@ -161665,6 +161775,26 @@
         "opponent": "G631-7CFF",
         "result": "win",
         "generation": 634
+      },
+      {
+        "opponent": "G635-4A83i",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-8964i",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-2D88",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G633-A7B0",
+        "result": "loss",
+        "generation": 636
       }
     ],
     "family_label": "Mr"
@@ -161804,7 +161934,7 @@
       "parity_weight": 7.113095296501885,
       "center_weight": 3.3107657210551826
     },
-    "elo": 2374.9424970346627,
+    "elo": 2407.624839588357,
     "match_history": [
       {
         "opponent": "G629-90E3",
@@ -161875,6 +162005,26 @@
         "opponent": "G629-8964i",
         "result": "loss",
         "generation": 634
+      },
+      {
+        "opponent": "G635-618E",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-2A02",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G633-A7B0",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G633-9C2D",
+        "result": "win",
+        "generation": 636
       }
     ],
     "family_label": "Gi"
@@ -162114,7 +162264,7 @@
       "parity_weight": 0.8348091556545217,
       "center_weight": 0.9270388417251577
     },
-    "elo": 3290.110492429654,
+    "elo": 3262.3569098578128,
     "match_history": [
       {
         "opponent": "G625-B0CB",
@@ -162135,6 +162285,26 @@
         "opponent": "G629-2C83",
         "result": "loss",
         "generation": 634
+      },
+      {
+        "opponent": "G635-9569",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-974B",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G631-2997",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G631-7FBCi",
+        "result": "win",
+        "generation": 636
       }
     ],
     "family_label": "Ww"
@@ -162274,7 +162444,7 @@
       "parity_weight": 10.916567421014033,
       "center_weight": 6.464312159114621
     },
-    "elo": 1900.3899735316315,
+    "elo": 1912.118159141151,
     "match_history": [
       {
         "opponent": "G631-7CFF",
@@ -162295,6 +162465,26 @@
         "opponent": "G633-2F3B",
         "result": "loss",
         "generation": 634
+      },
+      {
+        "opponent": "G635-2228",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-2D88",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-8964i",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G631-2997",
+        "result": "loss",
+        "generation": 636
       }
     ],
     "family_label": "Fd"
@@ -162354,8 +162544,29 @@
       "parity_weight": 4.489563400026746,
       "center_weight": 2.1882340466732586
     },
-    "elo": 1500.0,
-    "match_history": [],
+    "elo": 1573.0544383121542,
+    "match_history": [
+      {
+        "opponent": "G631-7FBCi",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-1E0B",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-1696",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-618E",
+        "result": "win",
+        "generation": 636
+      }
+    ],
     "family_label": "Ov"
   },
   {
@@ -162373,8 +162584,29 @@
       "parity_weight": 14.245229869599367,
       "center_weight": 3.964646171093077
     },
-    "elo": 3380.819397193057,
-    "match_history": [],
+    "elo": 3357.095001810502,
+    "match_history": [
+      {
+        "opponent": "G629-2C83",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G633-A7B0",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-2A02",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-9569",
+        "result": "loss",
+        "generation": 636
+      }
+    ],
     "family_label": "Ko"
   },
   {
@@ -162392,8 +162624,29 @@
       "parity_weight": 0.973812177002133,
       "center_weight": 0.9270388417251577
     },
-    "elo": 3290.110492429654,
-    "match_history": [],
+    "elo": 3314.067535626571,
+    "match_history": [
+      {
+        "opponent": "G633-A7B0",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-2C83",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-6086",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-974B",
+        "result": "win",
+        "generation": 636
+      }
+    ],
     "family_label": "Ww"
   },
   {
@@ -162411,8 +162664,29 @@
       "parity_weight": 7.113095296501885,
       "center_weight": 3.3107657210551826
     },
-    "elo": 2374.9424970346627,
-    "match_history": [],
+    "elo": 2342.1679937747476,
+    "match_history": [
+      {
+        "opponent": "G631-2997",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-6086",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-2C83",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-4A83i",
+        "result": "loss",
+        "generation": 636
+      }
+    ],
     "family_label": "Gi"
   },
   {
@@ -162430,8 +162704,29 @@
       "parity_weight": 4.208402835926586,
       "center_weight": 5.016402354163378
     },
-    "elo": 2354.5445452862436,
-    "match_history": [],
+    "elo": 2388.061203183258,
+    "match_history": [
+      {
+        "opponent": "G629-6086",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G631-2997",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-974B",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-8964i",
+        "result": "loss",
+        "generation": 636
+      }
+    ],
     "family_label": "Qq"
   },
   {
@@ -162449,8 +162744,29 @@
       "parity_weight": 2.5262512449967,
       "center_weight": 5.648298487043015
     },
-    "elo": 2043.2961662207122,
-    "match_history": [],
+    "elo": 1978.8835944016591,
+    "match_history": [
+      {
+        "opponent": "G629-2D88",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-2228",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-4A83i",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-1E0B",
+        "result": "loss",
+        "generation": 636
+      }
+    ],
     "family_label": "Rr"
   },
   {
@@ -162468,8 +162784,29 @@
       "parity_weight": 10.916567421014033,
       "center_weight": 6.464312159114621
     },
-    "elo": 1900.3899735316315,
-    "match_history": [],
+    "elo": 1849.8316943355246,
+    "match_history": [
+      {
+        "opponent": "G633-9C2D",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-1696",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-1E0B",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G629-2C83",
+        "result": "loss",
+        "generation": 636
+      }
+    ],
     "family_label": "Fd"
   },
   {
@@ -162487,7 +162824,180 @@
       "parity_weight": 2.226231021330448,
       "center_weight": 3.0176774524008954
     },
-    "elo": 1700.4947040380641,
+    "elo": 1712.6915661977318,
+    "match_history": [
+      {
+        "opponent": "G629-8964i",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-4A83i",
+        "result": "loss",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-2228",
+        "result": "win",
+        "generation": 636
+      },
+      {
+        "opponent": "G635-1696",
+        "result": "win",
+        "generation": 636
+      }
+    ],
+    "family_label": "Yl"
+  },
+  {
+    "id": "G637-9EC1i",
+    "generation": 637,
+    "parent_a_id": null,
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 6.387908072575321,
+      "danger_zone_weight": 7.375110516949264,
+      "mobility_weight": 3.208913440109516,
+      "edge_stability_weight": 0.6363571682037334,
+      "frontier_weight": 8.222143246823261,
+      "disc_weight": 5.474314503729655,
+      "parity_weight": 0.5859970743461237,
+      "center_weight": 4.9956380472144675
+    },
+    "elo": 1500.0,
+    "match_history": [],
+    "family_label": "Tv"
+  },
+  {
+    "id": "G637-2E4",
+    "generation": 637,
+    "parent_a_id": "G635-974B",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 16.914965311803485,
+      "danger_zone_weight": 2.141387566159349,
+      "mobility_weight": 7.342620157989217,
+      "edge_stability_weight": 0.5670494025769516,
+      "frontier_weight": 2.653843220875353,
+      "disc_weight": 2.2732360243827947,
+      "parity_weight": 12.223478943874596,
+      "center_weight": 3.964646171093077
+    },
+    "elo": 3357.095001810502,
+    "match_history": [],
+    "family_label": "Ko"
+  },
+  {
+    "id": "G637-9408",
+    "generation": 637,
+    "parent_a_id": "G635-9569",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 8.679374381224486,
+      "danger_zone_weight": 3.5539925032465085,
+      "mobility_weight": 5.901699393428241,
+      "edge_stability_weight": 3.3735340750586276,
+      "frontier_weight": 3.039202914686015,
+      "disc_weight": 6.247028760415873,
+      "parity_weight": 0.973812177002133,
+      "center_weight": 0.9270388417251577
+    },
+    "elo": 3314.067535626571,
+    "match_history": [],
+    "family_label": "Ww"
+  },
+  {
+    "id": "G637-6EA",
+    "generation": 637,
+    "parent_a_id": "G631-2997",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 9.249988794062793,
+      "danger_zone_weight": 1.0282131773563672,
+      "mobility_weight": 6.7936410862337935,
+      "edge_stability_weight": 0.6052868612350961,
+      "frontier_weight": 3.9918807761599386,
+      "disc_weight": 3.456939507577958,
+      "parity_weight": 7.113095296501885,
+      "center_weight": 2.9761842442621886
+    },
+    "elo": 2407.624839588357,
+    "match_history": [],
+    "family_label": "Gi"
+  },
+  {
+    "id": "G637-1B90",
+    "generation": 637,
+    "parent_a_id": "G635-2A02",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 9.610107621757944,
+      "danger_zone_weight": 5.959864200765875,
+      "mobility_weight": 4.1218126075022115,
+      "edge_stability_weight": 6.395334613744024,
+      "frontier_weight": 2.1487562478432225,
+      "disc_weight": 3.4879540160714733,
+      "parity_weight": 3.9925880035130725,
+      "center_weight": 3.833975993823559
+    },
+    "elo": 2388.061203183258,
+    "match_history": [],
+    "family_label": "Qq"
+  },
+  {
+    "id": "G637-8C26",
+    "generation": 637,
+    "parent_a_id": "G629-2D88",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 6.255740748387283,
+      "danger_zone_weight": 2.9387267250772653,
+      "mobility_weight": 8.34209918825645,
+      "edge_stability_weight": 12.401500207808764,
+      "frontier_weight": 4.236440308914842,
+      "disc_weight": 13.289640298735748,
+      "parity_weight": 2.5695069229185408,
+      "center_weight": 5.648298487043015
+    },
+    "elo": 2003.1925223449934,
+    "match_history": [],
+    "family_label": "Rr"
+  },
+  {
+    "id": "G637-95E9",
+    "generation": 637,
+    "parent_a_id": "G633-9C2D",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 4.84565849792266,
+      "danger_zone_weight": 2.036932628987293,
+      "mobility_weight": 3.114130422106817,
+      "edge_stability_weight": 3.8042338210033737,
+      "frontier_weight": 9.881149724120437,
+      "disc_weight": 5.477987669091049,
+      "parity_weight": 10.916567421014033,
+      "center_weight": 7.808367575965211
+    },
+    "elo": 1912.118159141151,
+    "match_history": [],
+    "family_label": "Fd"
+  },
+  {
+    "id": "G637-382E",
+    "generation": 637,
+    "parent_a_id": "G629-8964i",
+    "parent_b_id": null,
+    "params": {
+      "corner_weight": 8.53721873948513,
+      "danger_zone_weight": 6.712493688443021,
+      "mobility_weight": 2.273200122763913,
+      "edge_stability_weight": 3.6205459567512555,
+      "frontier_weight": 9.910307103847288,
+      "disc_weight": 5.344459666336607,
+      "parity_weight": 2.226231021330448,
+      "center_weight": 2.9146411114444324
+    },
+    "elo": 1782.1525348965351,
     "match_history": [],
     "family_label": "Yl"
   }
