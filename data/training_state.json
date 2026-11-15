@@ -1,5 +1,5 @@
 {
-  "benchmark_depth": 5,
+  "benchmark_depth": 6,
   "win_rate_history": [
     {
       "generation": 0,
@@ -1660,25 +1660,30 @@
       "generation": 662,
       "win_rate": 0.2,
       "benchmark_depth": 6
+    },
+    {
+      "generation": 664,
+      "win_rate": 1.0,
+      "benchmark_depth": 5
     }
   ],
   "active_population_ids": [
-    "G661-331Bi",
-    "G659-407A",
-    "G659-E3B",
-    "G661-70C3",
-    "G639-94AC",
-    "G659-6126",
-    "G659-9998i",
-    "G661-B04F",
-    "G663-81C0i",
-    "G663-275",
     "G663-441A",
-    "G663-209C",
+    "G661-70C3",
+    "G663-81C0i",
+    "G639-94AC",
+    "G659-E3B",
     "G663-95E2",
-    "G663-7870",
     "G663-F31",
-    "G663-286B"
+    "G659-9998i",
+    "G665-3E4Ai",
+    "G665-9B8A",
+    "G665-78E0",
+    "G665-3CB7",
+    "G665-1419",
+    "G665-4CBC",
+    "G665-4DF2",
+    "G665-64DA"
   ],
   "title_holder_defeats": [
     {
