@@ -1,5 +1,5 @@
 {
-  "benchmark_depth": 6,
+  "benchmark_depth": 5,
   "win_rate_history": [
     {
       "generation": 0,
@@ -1675,25 +1675,30 @@
       "generation": 668,
       "win_rate": 0.6,
       "benchmark_depth": 6
+    },
+    {
+      "generation": 670,
+      "win_rate": 0.0,
+      "benchmark_depth": 6
     }
   ],
   "active_population_ids": [
-    "G663-95E2",
-    "G663-441A",
-    "G665-4CBC",
-    "G639-94AC",
-    "G659-E3B",
-    "G667-7592",
-    "G659-9998i",
-    "G667-91A4i",
     "G669-8694i",
-    "G669-6CC8",
     "G669-5FB8",
     "G669-24D0",
+    "G639-94AC",
     "G669-628B",
     "G669-3DDB",
     "G669-AD6B",
-    "G669-2C3"
+    "G659-9998i",
+    "G671-A51i",
+    "G671-5951",
+    "G671-B060",
+    "G671-370A",
+    "G671-7D0",
+    "G671-5C22",
+    "G671-40B2",
+    "G671-1BB7"
   ],
   "title_holder_defeats": [
     {
@@ -1764,21 +1769,18 @@
     }
   ],
   "guaranteed_families": [
+    "Nx",
     "Yl",
+    "Qq",
+    "Ww",
     "Gi",
     "Fd",
-    "Ww",
-    "Qq",
     "Tv",
-    "Jo",
     "Vq"
   ],
   "grace_info": {
-    "Jo": 660,
-    "Vq": 662,
-    "Rt": 664,
-    "Ii": 666,
     "Ov": 670,
-    "Nx": 672
+    "Nx": 672,
+    "Fj": 674
   }
 }
