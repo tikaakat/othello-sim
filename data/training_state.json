@@ -1855,25 +1855,30 @@
       "generation": 740,
       "win_rate": 1.0,
       "benchmark_depth": 5
+    },
+    {
+      "generation": 742,
+      "win_rate": 0.8,
+      "benchmark_depth": 6
     }
   ],
   "active_population_ids": [
     "G739-307C",
-    "G735-5E18",
+    "G741-4575",
     "G737-3AA1",
-    "G739-323Ei",
-    "G737-7ABE",
+    "G741-7F01",
+    "G741-F64",
     "G739-A08C",
     "G737-8C7C",
-    "G737-8C22i",
     "G741-142Ei",
-    "G741-F64",
-    "G741-4575",
-    "G741-AA34",
-    "G741-1F6E",
-    "G741-DB5",
-    "G741-995B",
-    "G741-7F01"
+    "G743-89C5i",
+    "G743-A7DE",
+    "G743-AC57",
+    "G743-1255",
+    "G743-60BB",
+    "G743-9C00",
+    "G743-BB6",
+    "G743-51A2"
   ],
   "title_holder_defeats": [
     {
@@ -1962,6 +1967,7 @@
   "grace_info": {
     "Qf": 740,
     "Wj": 742,
-    "Mv": 744
+    "Mv": 744,
+    "Fu": 746
   }
 }
